@@ -13,6 +13,7 @@ The source code of my projects is private (one of them belongs to a client). Thi
 A contract project for a prepaid-SIM master dealer. The client uses it now.
 
 **Live demo (sample data, no login needed):** https://vibe456-demo.vercel.app
+**Code samples (6 real files — the rest of the repo is private, it's the client's live system):** [code-samples/](code-samples/)
 
 **Why I built it:** The dealer used to keep all records in Excel and type everything in one by one. They asked me to help, so I built a system that works on a computer and on a phone. Now they can find records faster and see how much they earned each month.
 
